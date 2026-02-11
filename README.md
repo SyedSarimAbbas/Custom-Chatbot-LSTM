@@ -1,12 +1,10 @@
-Attention-based Seq2Seq LSTM Chatbot
+# Seq2Seq LSTM Chatbot
 
 A smart AI chatbot built with Seq2Seq architecture using LSTM layers and an attention mechanism. It generates human-like responses and supports step-by-step inference for interactive chatting.
 
 🚀 Key Features
 
 Seq2Seq LSTM Architecture: Separate encoder and decoder LSTM layers for robust sequence-to-sequence modeling.
-
-Attention Mechanism: Focuses on relevant words in the input sequence for more accurate responses.
 
 Step-by-Step Inference: Generates responses one word at a time for natural conversational flow.
 
